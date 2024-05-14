@@ -1,0 +1,37 @@
+[
+    {   
+        "model": "kpp.KPP_Status",
+        "id": 1,
+        "fields": {
+            "status": "Новый"
+        }
+    },
+    {
+        "model": "kpp.KPP_Status",
+        "id": 2,
+        "fields": {
+            "status": "Обработка"
+        }
+    },
+    {
+        "model": "kpp.KPP_Status",
+        "id": 3,
+        "fields": {
+            "status": "В процессе"
+        }
+    },
+    {
+        "model": "kpp.KPP_Status",
+        "id": 4,
+        "fields": {
+            "status": "В работе"
+        }
+    },
+    {
+        "model": "kpp.KPP_Status",
+        "id": 5,
+        "fields": {
+            "status": "ОТК"
+        }
+    }
+]

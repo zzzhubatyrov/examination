@@ -1,0 +1,78 @@
+[
+    {
+        "model": "taskpage.Tasks",
+        "id": 1,
+        "fields": {
+            "service": "Составление документации",
+            "name": "Отдел конструкторов",
+            "description": "Необходимо составить документиацию для технологов",
+            "facility": 1,
+            "address": 1,
+            "applicant": [1],
+            "tags": "конструктора, РГМ, документация",
+            "deadline": "2024-04-10",
+            "date_end": "2024-04-10",
+            "appointed": [1],
+            "spectator": [1],
+            "labor_intensity": 48,
+            "status": 1
+        }
+    },
+    {
+        "model": "taskpage.Tasks",
+        "id": 2,
+        "fields": {
+            "service": "Введение в эксплуатацию",
+            "name": "Отдел АСУ",
+            "description": "Необходимо ввести эксплуатацию для метрологов",
+            "facility": 2,
+            "address": 2,
+            "applicant": [1],
+            "tags": "асушники, ввод в эксплуатацию, РГМ",
+            "deadline": "2024-04-11",
+            "date_end": "2024-04-11",
+            "appointed": [1],
+            "spectator": [1],
+            "labor_intensity": 48,
+            "status": 1
+        }
+    },
+    {
+        "model": "taskpage.Tasks",
+        "id": 3,
+        "fields": {
+            "service": "Проектирование гидравлической системы",
+            "name": "Отдел гидравлики",
+            "description": "Проанализировать потребности и требования заказчика к РГМ",
+            "facility": 1,
+            "address": 1,
+            "applicant": [1],
+            "tags": "гидравлики, РГМ",
+            "deadline": "2024-04-13",
+            "date_end": "2024-04-13",
+            "appointed": [1],
+            "spectator": [1],
+            "labor_intensity": 24,
+            "status": 1
+        }
+    },
+    {
+        "model": "taskpage.Tasks",
+        "id": 4,
+        "fields": {
+            "service": "Отгрузка",
+            "name": "Отдел АСУ, Отдел гидравлики, Отдел конструкторов",
+            "description": "Выполнить отгрузку",
+            "facility": 1,
+            "address": 1,
+            "applicant": [1],
+            "tags": "Отгрузка, РГМ",
+            "deadline": "2024-04-14",
+            "date_end": "2024-04-14",
+            "appointed": [1],
+            "spectator": [1],
+            "labor_intensity": 8,
+            "status": 2
+        }
+    }
+]

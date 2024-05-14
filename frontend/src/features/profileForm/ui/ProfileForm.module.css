@@ -1,0 +1,18 @@
+.profile_form {
+  padding: 32px;
+  margin: 32px;
+}
+
+.profile_image {
+  border-radius: 10%;
+}
+
+.inputs {
+  display: flex;
+  gap: 32px;
+  width: 100%;
+}
+
+.inputs_block {
+  flex: 1;
+}

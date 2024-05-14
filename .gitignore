@@ -1,0 +1,9 @@
+**/postgres/
+**/.idea/
+**/.vscode/
+**/__pycache__
+**/migrations
+venv/
+draft.py
+comments
+backend/fixtures_loaded.flag

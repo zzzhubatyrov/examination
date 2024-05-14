@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "model": "kpp.Supplier",
+        "fields": {
+            "name": "ТК Деловые Линии"
+        }
+    }
+]

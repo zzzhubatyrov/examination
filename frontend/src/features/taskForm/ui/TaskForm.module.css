@@ -1,0 +1,13 @@
+.task_form {
+  margin: 32px;
+  padding: 32px;
+}
+
+.inputs {
+  display: flex;
+  gap: 32px;
+  width: 100%;
+}
+.inputs_block {
+  flex: 1;
+}

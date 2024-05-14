@@ -1,0 +1,16 @@
+[
+    {   
+        "model": "taskpage.Tasks_Status",
+        "id": 1,
+        "fields": {
+            "status": "Открыта"
+        }
+    },
+    {
+        "model": "taskpage.Tasks_Status",
+        "id": 2,
+        "fields": {
+            "status": "Закрыта"
+        }
+    }
+]

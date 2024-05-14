@@ -1,0 +1,18 @@
+[
+    {
+        "model": "kpp.Delivery_model",
+        "id": 1,
+        "fields": {
+            "name": 1,
+            "who_pays": "до адресса ЗА СЧЕТ ПОСТАВЩИКА",
+            "postal_code": "443052",
+            "region": "Самарская область",
+            "city": "Самара",
+            "address": "ул. Береговая, 9А",
+            "middle_name": "Цыганов",
+            "first_name": "Василий",
+            "last_name": "Геннадьевич",
+            "phone": "89277004160"
+        }
+    }
+]

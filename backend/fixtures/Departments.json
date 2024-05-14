@@ -1,0 +1,65 @@
+[
+    {
+        "model": "user.Departments",
+        "id": 1,
+        "fields": {
+            "department": "Отдел технологов"
+        }
+    },
+    {
+        "model":"user.Departments",
+        "id": 2,
+        "fields": {
+            "department": "Отдел конструкторов"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 3,
+        "fields": {
+            "department": "Отдел гидравлики"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 4,
+        "fields": {
+            "department": "Отдел АСУ"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 5,
+        "fields": {
+            "department": "Отдел метрологов"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 6,
+        "fields": {
+            "department": "Отдел продаж"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 7,
+        "fields": {
+            "department": "Отдел бугхалтеров"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 8,
+        "fields": {
+            "department": "Отдел системного администрирования"
+        }
+    },
+    {
+        "model": "user.Departments",
+        "id": 9,
+        "fields": {
+            "department": "Отдел ОМТС"
+        }
+    }
+]

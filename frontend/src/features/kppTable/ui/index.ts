@@ -1,0 +1,1 @@
+export { KppTable } from './KppTable.tsx';

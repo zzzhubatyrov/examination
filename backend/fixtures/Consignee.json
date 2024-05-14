@@ -1,0 +1,20 @@
+[
+    {
+        "model": "kpp.Consignee_Model",
+        "id": 1,
+        "fields": {
+            "name": "ЗАО 'Самарский гипсовый комбинат'",
+            "tin": "6319009009",
+            "kpp": "631201001",
+            "postal_code": 443052,
+            "region": "Самарская область",
+            "city": "Самара",
+            "address": "ул. Береговая, 9А",
+            "middle_name": "Цыганов",
+            "first_name": "Василий",
+            "last_name": "Геннадьевич",
+            "phone": "89277004160",
+            "email": "Ciganov@samaragips.ru"
+        }
+    }
+]

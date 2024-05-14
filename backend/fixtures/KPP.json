@@ -1,0 +1,34 @@
+[
+    {
+        "model": "kpp.KPP_Model",
+        "id": 1,
+        "fields":
+        {
+            "name_number": "09453fdawd",
+            "name": "РГМ",
+            "description": "Необходимо выкупить детали для РЭМ-машины, а позже продать саму машину заказчику",
+            "tin": "6319009009",
+            "kpp": "631201001",
+            "сustomer_contact_person": "Цыганов Василий Геннадьевич",
+            "customer_phone": "89277004160",
+            "customer_email": "Ciganov@samaragips.ru",
+            "consignee_details": 1,
+            "delivery_method": 1,
+            "contract": "-",
+            "bill": "-",
+            "price": "2 203 840,0",
+            "payment_terms": "70% - ававнсовый платеж / 30% - платеж после подписания АВР",
+            "payment_order": "-",
+            "manager": [2],
+            "sold_by": "ООО 'РСЦИМ'",
+            "priority": 2,
+            "difficulty": 1,
+            "date_end": "2024-04-12",
+            "status": 1,
+            "task": [
+                1, 2
+            ],
+            "equipment_template": [1]
+        }
+    }
+]

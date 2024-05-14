@@ -1,0 +1,21 @@
+.table {
+  height: calc(100dvh - 60px);
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+}
+.header {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 52px;
+  padding: 16px;
+  z-index: 1;
+}
+.data_table {
+  position: absolute;
+  padding-top: 52px;
+  height: 100%;
+  width: 100%;
+}

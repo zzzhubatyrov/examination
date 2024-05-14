@@ -1,0 +1,6 @@
+FROM node:16.12.0-alpine
+WORKDIR /usr/src/app
+ADD ./frontend_old/*.json ./
+ADD ./frontend_old/socket.js ./
+RUN npm install
+CMD node socket.js

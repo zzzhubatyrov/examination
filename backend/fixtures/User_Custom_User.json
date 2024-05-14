@@ -1,0 +1,85 @@
+[
+    {
+        "model": "user.custom_user",
+        "id": 1,
+        "fields": {
+            "username": "1",
+            "password": "pbkdf2_sha256$720000$WAukVy74QU3P3LghjAsBOR$nJySTKJLzDZmqoXtlkBa5cazcdQugsLENAUswp6YF1w=",
+            "date_joined": "2022-11-14 12:25:14",
+            "update_date": "2022-11-14 12:25:14",
+            "middle_name": "Вильданов",
+            "first_name": "Борис",
+            "last_name": "Марсович",
+            "is_staff": "True",
+            "department": 8,
+            "email": "admin@metrotest.ru",
+            "is_active": "True",
+            "is_superuser": "True",
+            "telegram": "@admin",
+            "mobile_phone": "+71111111111",
+            "office_phone": 1000
+        }
+    },
+    {
+        "model": "user.custom_user",
+        "id": 2,
+        "fields": {
+            "username": "2",
+            "password": "pbkdf2_sha256$720000$WAukVy74QU3P3LghjAsBOR$nJySTKJLzDZmqoXtlkBa5cazcdQugsLENAUswp6YF1w=",
+            "date_joined": "2022-11-14 12:25:14",
+            "update_date": "2022-11-14 12:25:14",
+            "middle_name": "Каракшин",
+            "first_name": "Андрей",
+            "last_name": "Николаевич",
+            "is_staff": "True",
+            "department": 6,
+            "email": "134@metrotest.ru",
+            "is_active": "True",
+            "is_superuser": "True",
+            "telegram": "@manager",
+            "mobile_phone": "+72222222222",
+            "office_phone": 134
+        }
+    },
+    {
+        "model": "user.custom_user",
+        "id": 3,
+        "fields": {
+            "username": "3",
+            "password": "pbkdf2_sha256$720000$WAukVy74QU3P3LghjAsBOR$nJySTKJLzDZmqoXtlkBa5cazcdQugsLENAUswp6YF1w=",
+            "date_joined": "2022-11-14 12:25:14",
+            "update_date": "2022-11-14 12:25:14",
+            "middle_name": "Бакировна",
+            "first_name": "Регина",
+            "last_name": "Маратовна",
+            "is_staff": "True",
+            "department": 2,
+            "email": "1015@metrotest.ru",
+            "is_active": "True",
+            "is_superuser": "True",
+            "telegram": "@3",
+            "mobile_phone": "+73333333333",
+            "office_phone": 1015
+        }
+    },
+    {
+        "model": "user.custom_user",
+        "id": 4,
+        "fields": {
+            "username": "4",
+            "password": "pbkdf2_sha256$720000$WAukVy74QU3P3LghjAsBOR$nJySTKJLzDZmqoXtlkBa5cazcdQugsLENAUswp6YF1w=",
+            "date_joined": "2022-11-14 12:25:14",
+            "update_date": "2022-11-14 12:25:14",
+            "middle_name": "Попов",
+            "first_name": "Вячеслав",
+            "last_name": "Владимирович",
+            "is_staff": "True",
+            "department": 9,
+            "email": "142@metrotest.ru",
+            "is_active": "True",
+            "telegram": "awdxfxdsawa",
+            "mobile_phone": "+74444444444",
+            "office_phone": 142
+        }
+    }
+]

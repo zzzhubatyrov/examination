@@ -1,0 +1,18 @@
+[
+    {
+        "model": "taskpage.Facilities",
+        "id": 1,
+        "fields": {
+            "facility": "База №1",
+            "address": "Индустриальная 21"
+        }
+    },
+    {
+        "model": "taskpage.Facilities",
+        "id": 2,
+        "fields": {
+            "facility": "База №2",
+            "address": "Индустриальная 24"
+        }
+    }
+]

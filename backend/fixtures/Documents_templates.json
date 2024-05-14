@@ -1,0 +1,16 @@
+[
+    {
+        "model": "taskpage.Documents_templates",
+        "pk": 1,
+        "fields": {
+            "document": "media/documents_templates/PNR.pdf"
+        }
+    },
+    {
+        "model": "taskpage.Documents_templates",
+        "pk": 2,
+        "fields": {
+            "document": "media/documents_templates/ACS.pdf"
+        }
+    }
+]
