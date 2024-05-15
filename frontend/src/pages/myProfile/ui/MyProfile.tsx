@@ -7,8 +7,8 @@ export const MyProfile = () => {
   if (isLoading || !data) return 'loading...';
 
   return (
-    <div>
-      <ProfileView user={data} />
-    </div>
+      <div>
+        <ProfileView user={data}/>
+      </div>
   );
 };
